@@ -15,7 +15,7 @@ FIRST CREATE AT 2023-07-05
 # But grub shell appears at first time.
 grub> reboot
 
-# After reboot, Can select boot options (in TeratzTerm/minicom)
+# After reboot, Can select boot options (in TeraTerm/minicom)
 # 'Press ESCAPE for boot options ...' will appear and press ESC
 ```
 
