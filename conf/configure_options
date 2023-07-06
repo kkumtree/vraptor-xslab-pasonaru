@@ -1,3 +1,14 @@
+# In /etc/nginx
+
+## /etc/nginx/sites-enabled/xmas-nano.conf
+### /etc/nginx/sites-available/xmas-nano.conf
+#### /opt/xmas-nano/xmas-nano.conf
+
+## /etc/nginx/modules-enabled/50-mod-http-image-filter.conf
+### /usr/share/nginx/modules-available/mod-http-xslt-filter.conf
+
+=============================================================================
+
 TLS SNI support enabled
 configure arguments: 
 
